@@ -1,12 +1,11 @@
-# Ciao, I'm Giulio Frey
+# Ciao, I'm Giulio
 
-### Welcome to my GitHub profile!
+Welcome to my GitHub profile! I'm an Economics student at Bocconi University.
 
-I'm an Economics student at Bocconi University, currently based in Milan.
 ### About me:
 
-- 🎓 **Economics** graduate student with a strong focus on **Microeconomics** , **Econometrics** and **Computer Science**.
+- 🎓 **Economics** graduate student with a strong interest on **Microeconomics** , **Econometrics** and **Computer Science**.
 - 🧑‍🔬 Currently a **Research Assistant** at **IGIER**, specializing in **Industrial Organization**.
 - 🌍 Affiliated with [**Tortuga**](https://github.com/tortugaecon).
 
-I'm always open to new ideas and discussions! If you share similar interests, feel free to reach out.
+I'm always open to new ideas and discussions. Feel free to reach out.
