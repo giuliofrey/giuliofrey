@@ -1,11 +1,7 @@
 # Ciao, I'm Giulio
 
-Welcome to my GitHub profile! I'm an Economics student at Bocconi University.
+Welcome to my GitHub profile! I'm an Economics student at Bocconi University. 
 
-### About me:
+I am **Economics** graduate student with a strong interest on the intersection between **Microeconomics** **Computer Science**. Currently a **Research Assistant** at **IGIER** I am also a member of[**Tortuga**](https://github.com/tortugaecon).
 
-- 🎓 **Economics** graduate student with a strong interest on **Microeconomics** , **Econometrics** and **Computer Science**.
-- 🧑‍🔬 Currently a **Research Assistant** at **IGIER**, specializing in **Industrial Organization**.
-- 🌍 Affiliated with [**Tortuga**](https://github.com/tortugaecon).
-
-I'm always open to new ideas and discussions. Feel free to reach out.
+Feel free to reach out.
