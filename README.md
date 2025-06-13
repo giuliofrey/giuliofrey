@@ -2,6 +2,6 @@
 
 Welcome to my GitHub profile! I'm an Economics student at Bocconi University. 
 
-My research interests lie at the intersection of Microeconomics and Computer Science. I am currently a Research Assistant at IGIER. I am also a member of [Tortuga](https://github.com/tortugaecon).
+My research interests lie at the intersection of Microeconomics and Computer Science. I am also a fellow of [Tortuga](https://github.com/tortugaecon).
 
 Feel free to reach out.
