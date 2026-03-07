@@ -2,4 +2,4 @@
 
 Welcome to my GitHub profile! I am a Research Profesional at Chicago Booth.
 
-My research interests lie at the intersection of Microeconomics and Computer Science.
+For more info about me check my [website](https://giuliofrey.eu)
